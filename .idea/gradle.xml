@@ -9,6 +9,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/01-kafka-basics" />
+            <option value="$PROJECT_DIR$/02-Kafka-Producer-Wikimedia" />
+            <option value="$PROJECT_DIR$/03-kafka-consumer-opensearch" />
           </set>
         </option>
       </GradleProjectSettings>
